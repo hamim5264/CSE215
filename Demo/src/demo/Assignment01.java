@@ -49,9 +49,9 @@ public class Assignment01 {
        
        //Home work 04
        System.out.println("\n");
-       double r = 5, result;
+       double r = 3, result;
        result  = 3.1416 *r*r;
-       System.out.println("Area of circle: "+result);
+       System.out.printf("Area of circle: %.2f", result);
        
        //Home work 05
        System.out.println("\n");
